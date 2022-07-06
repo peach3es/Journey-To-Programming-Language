@@ -1,4 +1,4 @@
-<h1 align = "center"> Journey-To-Programming-Language</h1>
+<h1 align = "center"> 🗺 Journey-To-Programming-Language</h1>
 This is a place to store all small projects/bigger ones when learning different Programming Languages.
 
 Some Programming Languages currently learning:
